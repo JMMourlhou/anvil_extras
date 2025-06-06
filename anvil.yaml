@@ -1,8 +1,8 @@
 allow_embedding: false
 dependencies: []
-metadata: {title: Anvil extras}
-name: Anvil extras
-package_name: Anvil_extras
+metadata: {description: anvil extras cloné du git, title: Anvil extras}
+name: anvil_extras_from_git
+package_name: anvil_extras_from_git
 renamed: true
 runtime_options:
   client_version: '3'
